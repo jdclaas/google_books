@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://www.rd.com/wp-content/uploads/2017/11/How-Much-Does-a-Book-Need-to-Sell-to-Be-a-Bestseller-509582812-Billion-Photos-1024x683.jpg");
+}
+
+.jumbotron {
+    background-image: url("http://bestanimations.com/Books/book-pages-waving-wind-outdoors-nature-animated-gif.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+    background-color: black;
+}
+
+p {
+    margin: 35px;
+    padding-bottom: 50px;
+    text-align: justify;
+}
